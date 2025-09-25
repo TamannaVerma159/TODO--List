@@ -1,2 +1,2 @@
 # TODO--List
-basic todo-list with the help of function and using python
+basic todo-list with the help of function and loops using python
